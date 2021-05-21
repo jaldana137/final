@@ -116,19 +116,7 @@ background: #2b2e36;
 }
 @media screen and (max-width:600px){
     .c33, .c50, .logo, .btn1, #menu{
-        width:100%;
+        width:130%;
     }
 }
 
-@media screen and (max-width:555px){
-    .gallery{
-        background:#000;
-    }
-    .gallery h2{
-        font-size:40px;
-    }
-    .gallery p{
-        color:#fff;
-        font-size:20px;
-    }
-}
